@@ -1,0 +1,13 @@
+{
+  "models_saved": [
+    "Isolation Forest",
+    "One-Class SVM",
+    "LSTM Autoencoder",
+    "LSTM Threshold",
+    "Scaler",
+    "Feature Names"
+  ],
+  "save_timestamp": "2025-09-13T15:15:49.010561",
+  "device_used": "cuda",
+  "total_samples": 118166
+}
